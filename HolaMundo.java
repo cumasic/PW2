@@ -3,6 +3,7 @@ public class HolaMundo{
 		//** */
 		//Hola Mundo
 		System.out.println("Hola Mundo");
+		System.out.println("Bienvenidos al curso de PW2");
 	}
 }
 
